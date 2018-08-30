@@ -4,6 +4,7 @@ Hi, this is the documentation for sending a letter to a legislator,
 1. Installation:
 Extract the zip file and cd to the directory.
 Note: python runtime = 3.6
+
 command: pip install -r requirements.txt
 
 2. Instructions to run the code
